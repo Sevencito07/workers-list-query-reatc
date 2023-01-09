@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sevencito07/workers-list-query-reatc.git/static/css/main.f1c30edf.css",
+    "main.js": "/Sevencito07/workers-list-query-reatc.git/static/js/main.f4a3c020.js",
+    "index.html": "/Sevencito07/workers-list-query-reatc.git/index.html",
+    "main.f1c30edf.css.map": "/Sevencito07/workers-list-query-reatc.git/static/css/main.f1c30edf.css.map",
+    "main.f4a3c020.js.map": "/Sevencito07/workers-list-query-reatc.git/static/js/main.f4a3c020.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1c30edf.css",
+    "static/js/main.f4a3c020.js"
+  ]
+}
